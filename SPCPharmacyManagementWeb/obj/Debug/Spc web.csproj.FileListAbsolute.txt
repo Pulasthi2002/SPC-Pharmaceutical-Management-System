@@ -1,0 +1,56 @@
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\ApplicationInsights.config
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Spc web.dll.config
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Spc web.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Spc web.pdb
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\obj\Debug\Spc web.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\obj\Debug\Spc web.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\obj\Debug\Spc web.pdb
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Google.Protobuf.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\MySql.Data.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\System.Buffers.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\System.Memory.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\BouncyCastle.Crypto.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Google.Protobuf.pdb
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\Google.Protobuf.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\MySql.Data.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\System.Buffers.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\System.Memory.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\EntityFramework.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\EntityFramework.xml
+C:\Users\ASUS\Documents\Company_Works\Soc\New folder (2)\Spc web\Spc web\bin\EntityFramework.SqlServer.xml

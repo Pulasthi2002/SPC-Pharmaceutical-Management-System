@@ -1,0 +1,170 @@
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\ApplicationInsights.config
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\csc.exe
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\vbc.exe
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Spc web.dll.config
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Spc web.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Spc web.pdb
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\BouncyCastle.Crypto.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\EntityFramework.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\EntityFramework.SqlServer.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Google.Protobuf.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\K4os.Compression.LZ4.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\K4os.Hash.xxHash.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.Web.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\MySql.Data.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\System.Buffers.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\System.Memory.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\BouncyCastle.Crypto.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\EntityFramework.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\EntityFramework.SqlServer.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Google.Protobuf.pdb
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Google.Protobuf.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\K4os.Compression.LZ4.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\K4os.Compression.LZ4.Streams.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\K4os.Hash.xxHash.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.Web.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\MySql.Data.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\System.Buffers.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\System.Memory.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\obj\Debug\SPCPharmacyManagementWeb.csprojResolveAssemblyReference.cache
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\obj\Debug\Spc web.dll
+D:\Desktop\SPCPharmacyManagementWeb\Spc web\obj\Debug\Spc web.pdb
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\ApplicationInsights.config
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\csc.exe
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\vbc.exe
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Spc web.dll.config
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Spc web.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Spc web.pdb
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\BouncyCastle.Crypto.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\EntityFramework.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\EntityFramework.SqlServer.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Google.Protobuf.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\K4os.Compression.LZ4.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\K4os.Hash.xxHash.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.Web.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\MySql.Data.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\System.Buffers.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\System.Memory.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\BouncyCastle.Crypto.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\EntityFramework.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\EntityFramework.SqlServer.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Google.Protobuf.pdb
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Google.Protobuf.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\K4os.Compression.LZ4.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\K4os.Compression.LZ4.Streams.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\K4os.Hash.xxHash.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.Web.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\MySql.Data.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\System.Buffers.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\System.Memory.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\obj\Debug\SPCPharmacyManagementWeb.csprojResolveAssemblyReference.cache
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\obj\Debug\Spc web.dll
+D:\Desktop\SPCPharmacyManagementWeb - Copy\Spc web\obj\Debug\Spc web.pdb
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\ApplicationInsights.config
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\csc.exe
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\vbc.exe
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Spc web.dll.config
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Spc web.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Spc web.pdb
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\BouncyCastle.Crypto.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\EntityFramework.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\EntityFramework.SqlServer.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Google.Protobuf.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\K4os.Compression.LZ4.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\K4os.Hash.xxHash.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.Web.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\MySql.Data.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\System.Buffers.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\System.Memory.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\BouncyCastle.Crypto.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\EntityFramework.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\EntityFramework.SqlServer.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Google.Protobuf.pdb
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Google.Protobuf.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\K4os.Compression.LZ4.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\K4os.Compression.LZ4.Streams.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\K4os.Hash.xxHash.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.Web.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\MySql.Data.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\System.Buffers.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\System.Memory.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\obj\Debug\Spc web.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\obj\Debug\Spc web.pdb
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\obj\Debug\SPCPharmacyManagementWeb.csproj.AssemblyReference.cache
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\obj\Debug\SPCPharmacyManagementWeb.csproj.CoreCompileInputs.cache
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagementWeb\obj\Debug\SPCPharm.49433EB6.Up2Date

@@ -1,0 +1,283 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Spc.master.cs" Inherits="Spc_web.Spc" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>SPC Pharmacy</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Google Fonts: Poppins for a modern, clean look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Bootstrap 5.3 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    
+    <!-- Font Awesome 6.4 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+    <!-- Custom Stylesheet for a Modern Look -->
+    <style>
+        /* CSS Variables for easy theme management */
+        :root {
+            --primary-color: #007bff; /* A vibrant, professional blue */
+            --secondary-color: #4CAF50; /* A fresh, trustworthy green */
+            --dark-color: #2c3e50;
+            --light-color: #f8f9fa;
+            --font-family: 'Poppins', sans-serif;
+            --border-radius: 0.5rem;
+            --box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+        }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--light-color);
+            color: #333;
+            transition: background-color 0.3s;
+        }
+
+        /* --- Modern "Glassmorphism" Navbar --- */
+        .navbar-glass {
+            position: sticky;
+            top: 0;
+            z-index: 1030;
+            background: rgba(255, 255, 255, 0.7); /* Semi-transparent background */
+            backdrop-filter: blur(10px); /* The "frosted glass" effect */
+            -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: var(--primary-color) !important;
+        }
+
+        .navbar-brand .fa-pills {
+            color: var(--secondary-color);
+            transform: rotate(-15deg);
+            transition: transform 0.3s ease;
+        }
+        .navbar-brand:hover .fa-pills {
+            transform: rotate(0deg);
+        }
+
+        .navbar .nav-link {
+            font-weight: 500;
+            color: #555 !important;
+            position: relative;
+            padding: 0.5rem 1rem;
+            transition: color 0.3s ease;
+        }
+
+        .navbar .nav-link:hover,
+        .navbar .nav-link.active {
+            color: var(--primary-color) !important;
+        }
+
+        /* Underline effect for nav links */
+        .navbar .nav-link::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 2px;
+            background-color: var(--primary-color);
+            transition: width 0.3s ease-out;
+        }
+
+        .navbar .nav-link:hover::after,
+        .navbar .nav-link.active::after {
+            width: 70%;
+        }
+        
+        /* Style for the nav buttons */
+        .navbar .btn {
+            font-weight: 500;
+        }
+
+        /* --- Main Content Area --- */
+        .main-content {
+            min-height: calc(100vh - 350px); /* Ensures footer stays down on short pages */
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+        }
+
+        /* --- Modern, Structured Footer --- */
+        .pharmacy-footer {
+            background-color: var(--dark-color);
+            color: rgba(255, 255, 255, 0.8);
+            padding: 50px 0 20px 0;
+        }
+        
+        .pharmacy-footer h5 {
+            color: #fff;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            position: relative;
+        }
+        
+        .pharmacy-footer h5::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -8px;
+            width: 40px;
+            height: 3px;
+            background-color: var(--primary-color);
+            border-radius: 2px;
+        }
+
+        .pharmacy-footer a {
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            transition: color 0.3s, padding-left 0.3s;
+        }
+
+        .pharmacy-footer a:hover {
+            color: #fff;
+            padding-left: 5px;
+        }
+
+        .footer-links li {
+            margin-bottom: 0.75rem;
+        }
+
+        .social-icons a {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+            margin-right: 10px;
+            font-size: 1.1rem;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+        .social-icons a:hover {
+            background-color: var(--primary-color);
+            transform: translateY(-3px);
+            color: #fff;
+        }
+
+        .footer-bottom {
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            padding-top: 20px;
+            margin-top: 30px;
+            font-size: 0.9rem;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server" />
+        
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light navbar-glass">
+            <div class="container">
+                <a class="navbar-brand" href="Home.aspx">
+                    <i class="fas fa-pills me-2"></i>SPC Pharmacy
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
+                        <li class="nav-item"><a class="nav-link active" href="Home.aspx">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Customers.aspx">Medications</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Tenders.aspx">Services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="About.aspx">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="Contact.aspx">Contact</a></li>
+                        
+                        <!-- ==== START: NEW CODE ==== -->
+                        <!-- This item will be shown when the user is NOT logged in -->
+                        <li id="liSignUp" class="nav-item ms-lg-3" runat="server">
+                            <a href="Login.aspx" class="btn btn-outline-primary">Sign In</a>
+                        </li>
+                        
+                        <!-- This item will be shown when the user IS logged in -->
+                        <li id="liLogout" class="nav-item ms-lg-3" runat="server" visible="false">
+                            <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CssClass="btn btn-danger">
+                                <i class="fas fa-sign-out-alt me-1"></i>Logout
+                            </asp:LinkButton>
+                        </li>
+                        <!-- ==== END: NEW CODE ==== -->
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="container">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="pharmacy-footer">
+            <div class="container">
+                <div class="row">
+                    <!-- About Section -->
+                    <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                        <h5><i class="fas fa-clinic-medical me-2"></i>SPC Pharmacy</h5>
+                        <p class="mt-4">Your trusted partner in health and wellness. Providing high-quality medications and healthcare products since 2025.</p>
+                        <div class="social-icons mt-4">
+                            <a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                            <a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+                            <a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <!-- Quick Links -->
+                    <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
+                        <h5>Quick Links</h5>
+                        <ul class="list-unstyled footer-links">
+                            <li><a href="Home.aspx"><i class="fas fa-angle-right me-2"></i>Home</a></li>
+                            <li><a href="Customers.aspx"><i class="fas fa-angle-right me-2"></i>Medications</a></li>
+                            <li><a href="Tenders.aspx"><i class="fas fa-angle-right me-2"></i>Tenders</a></li>
+                            <li><a href="About.aspx"><i class="fas fa-angle-right me-2"></i>About Us</a></li>
+                            <li><a href="Contact.aspx"><i class="fas fa-angle-right me-2"></i>Contact</a></li>
+                        </ul>
+                    </div>
+                    <!-- Contact Info -->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                        <h5>Contact Us</h5>
+                        <ul class="list-unstyled">
+                            <li class="mb-3"><i class="fas fa-map-marker-alt me-2"></i>123 Pharmacy Lane, Colombo 06</li>
+                            <li class="mb-3"><i class="fas fa-phone me-2"></i>+94 112548675</li>
+                            <li class="mb-3"><i class="fas fa-envelope me-2"></i>contact@spcpharmacy.com</li>
+                        </ul>
+                    </div>
+                     <!-- Newsletter (Example) -->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                        <h5>Newsletter</h5>
+                        <p>Stay updated with our latest offers and health tips.</p>
+                        <div class="input-group">
+                            <input type="email" class="form-control" placeholder="Your Email" />
+                            <button class="btn btn-primary" type="button"><i class="fas fa-paper-plane"></i></button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Bottom Footer -->
+                <div class="row">
+                    <div class="col-12 text-center footer-bottom">
+                        <p>&copy; <%= DateTime.Now.Year %> SPC Pharmacy. All rights reserved. | Design by SPC</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </form>
+    
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

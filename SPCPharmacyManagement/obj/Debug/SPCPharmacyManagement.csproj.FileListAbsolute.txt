@@ -1,0 +1,30 @@
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\SPCPharmacyManagement.exe.config
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\SPCPharmacyManagement.exe
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\SPCPharmacyManagement.pdb
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\MySql.Data.dll
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\MySql.Data.xml
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.InventoryManagementForm.resources
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.exe
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.pdb
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.MainForm.resources
+d:\documents\visual studio 2015\Projects\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.PharmacyManagementForm.resources
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.InventoryManagementForm.resources
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.MainForm.resources
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.PharmacyManagementForm.resources
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.Properties.Resources.resources
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.SupplierManagementForm.resources
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.csproj.GenerateResource.Cache
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\SPCPharmacyManagement.exe.config
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\SPCPharmacyManagement.exe
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\SPCPharmacyManagement.pdb
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\MySql.Data.dll
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\bin\Debug\MySql.Data.xml
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.exe
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.pdb
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.csproj.AssemblyReference.cache
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.exe.config
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharmacyManagement.csproj.CoreCompileInputs.cache
+D:\Desktop\SPCPharmacyManagement\SPCPharmacyManagement\obj\Debug\SPCPharm.0C8A770E.Up2Date
